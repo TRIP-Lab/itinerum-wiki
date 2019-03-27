@@ -1,2 +1,2 @@
-# wiki
-Wiki repo for Itinerum project
+# Iitinerum project wiki
+All content here: https://github.com/TRIP-Lab/wiki/wiki
